@@ -1,0 +1,5 @@
+.env
+schema.pdf
+main_venv.py
+not_tested_main.py
+.dockerignore
